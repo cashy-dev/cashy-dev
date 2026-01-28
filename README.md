@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Cashy Dev
 
-<!--
-**cashy-dev/cashy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python & JavaScript Developer  
+🌍 Open to Remote & Freelance Work  
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I am a passionate beginner developer focused on building practical projects, learning modern technologies, and growing into a professional software engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python (Basics, Automation)
+- JavaScript (HTML, CSS, DOM)
+- Git & GitHub
+- Web Development Fundamentals
+
+## 📌 Projects
+🔹 **Todo List App (JavaScript)**  
+A simple task manager with add & delete features.
+
+🔹 **Python File Organizer**  
+Automatically sorts files into folders.
+
+## 📫 Contact
+- GitHub: https://github.com/cashy-dev
+- Email: cashybighead@gmail.com
